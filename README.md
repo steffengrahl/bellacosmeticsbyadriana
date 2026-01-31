@@ -7,7 +7,7 @@ Environments
 ---
 
  - Production: https://www.bellacosmeticsbyadriana.de
- - Stage: https://adriana.steffengrahl.de
+ - Stage: https://adrianna.steffengrahl.de
  - Development: tba
 
 License
