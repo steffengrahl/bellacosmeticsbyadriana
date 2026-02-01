@@ -857,7 +857,7 @@ footer {
     background: var(--white);
 }
 
-.legal-page .container {
+.legal-page main > .container {
     max-width: 960px;
     padding: 2rem 1rem 3rem;
 }
