@@ -160,7 +160,8 @@ header,
 }
 
 .nav-link:hover::after,
-.nav-link:focus::after {
+.nav-link:focus::after,
+.nav-link.active::after {
     transform: scaleX(1);
 }
 
@@ -659,7 +660,8 @@ footer {
 }
 
 .footer-list a:hover,
-.footer-list a:focus {
+.footer-list a:focus,
+.footer-list a.active {
     text-decoration: underline;
 }
 
