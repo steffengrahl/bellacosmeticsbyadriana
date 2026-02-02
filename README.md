@@ -65,7 +65,7 @@ docker stop bella-cosmetics
 
 ## Lizenz
 
-Der Quellcode dieser Website unterliegt der MIT-Lizenz. Details finden sich in der [LICENSE.md](LICENSE.md).
+Der Quellcode dieser Website unterliegt der MIT-Lizenz. Details finden sich in der [LICENSE](LICENSE).
 
 ## Mitwirken
 
