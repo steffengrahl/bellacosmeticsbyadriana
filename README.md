@@ -1,3 +1,5 @@
+<img src="images/hero-logo-banner.png" alt="Bella Cosmetics Hero Banner" width="600">
+
 # Bella Cosmetics by Adrianna
 
 [![Pages Deployment](https://img.shields.io/github/deployments/steffengrahl/bellacosmeticsbyadriana/github-pages?label=deployment)](https://github.com/steffengrahl/bellacosmeticsbyadriana/deployments)
